@@ -1,43 +1,75 @@
 <div align="center">
 
-# Hi, I'm John Akoto 👋
+# Hi, I'm John Sena Akoto 👋
 
-### Machine Learning Engineer · Computer Science Graduate Student · Systems Builder
+### Software Engineer · AI Infrastructure · Distributed Systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnsenaakoto.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-johnsenaakoto-181717?style=for-the-badge&logo=github)](https://github.com/johnsenaakoto)
+I build software that provisions, validates, and operates cloud and accelerated-computing infrastructure at scale.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnakoto/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnsenaakoto.netlify.app/)
 
 </div>
 
 ## About me
 
-I'm an ML engineer pursuing an M.S. in Computer Science at Texas Tech University. I enjoy building at the intersection of machine learning, Linux infrastructure, and distributed systems—turning experiments into observable, repeatable software.
+I'm a Software Engineer at Oracle Cloud Infrastructure working on systems that bring up and operate large-scale AI and GPU infrastructure.
 
-- 🔭 Currently exploring distributed training and high-performance computing
-- 🛠️ Building reproducible infrastructure with Linux, Bash, Python, and Slurm
-- 🧠 Interested in computer vision, applied machine learning, and systems engineering
-- 📍 Based in Lubbock, Texas
+My work spans distributed provisioning, Linux image delivery, Kubernetes-based orchestration, automated remediation, observability, and secure cloud services. I enjoy turning complex infrastructure operations into reliable, measurable, and repeatable software.
 
-## Featured work
+Beyond infrastructure engineering, I co-founded Krom Analytics to explore how AI and market intelligence can serve businesses in Ghana's informal economy.
 
-| Project | What it demonstrates |
+## What I work on
+
+- GPU-cluster provisioning and validation
+- Distributed systems and infrastructure automation
+- Kubernetes, Linux, CI/CD, and cloud platforms
+- Production observability and automated remediation
+- Secure sovereign-cloud services and migration systems
+- Distributed machine-learning infrastructure
+
+## Featured project
+
+### [Automated Slurm Cluster Lab](https://github.com/johnsenaakoto/slurm-project)
+
+A fully automated three-node Slurm environment built on Ubuntu ARM64 VMs.
+
+- Multipass VM provisioning
+- Cluster networking and time validation
+- Shared MUNGE authentication
+- Dynamic hardware and IP discovery
+- Slurm configuration and daemon management
+- Multi-node batch-job validation
+- Observable diagnostics and guarded teardown
+
+## Selected engineering work
+
+| Project | Focus |
 | --- | --- |
-| [**Automated Slurm Cluster Lab**](https://github.com/johnsenaakoto/slurm-project) | End-to-end automation for a three-node Slurm cluster: VM provisioning, networking, MUNGE authentication, dynamic configuration, service validation, multi-node jobs, and guarded teardown. |
-| [**Secure Messaging Program**](https://github.com/johnsenaakoto/Secure-Messaging-Program) | A multithreaded, end-to-end encrypted messaging system designed around confidentiality, integrity, and non-repudiation. |
-| [**Music Genre Classification**](https://github.com/johnsenaakoto/Music_Genre_Classification) | A notebook-based machine-learning workflow for building and evaluating a music genre classifier. |
-| [**Flix**](https://github.com/johnsenaakoto/Flix) | An Android application that presents current movie data from The Movie Database API. |
+| [Slurm Cluster Lab](https://github.com/johnsenaakoto/slurm-project) | HPC scheduling, Linux automation, distributed execution, and operational validation |
+| [Secure Messaging Program](https://github.com/johnsenaakoto/Secure-Messaging-Program) | Multithreading, encryption, integrity, confidentiality, and non-repudiation |
+| [Music Genre Classification](https://github.com/johnsenaakoto/Music_Genre_Classification) | Applied machine learning and model evaluation |
 
-## Tools and technologies
+## Research
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Slurm](https://img.shields.io/badge/Slurm-184A7D?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- [Machine Learning vs. Deep Learning for Anomaly Detection and Categorization in Multi-cloud Environments](https://ieeexplore.ieee.org/document/9973112)
+- [Observation of stagnant slab material beneath the Aleutian Trench](https://doi.org/10.1093/gji/ggac191)
 
-## Let's connect
+## Technology
 
-See more of my work and background on [my portfolio website](https://johnsenaakoto.netlify.app/).
+**Languages:** Python, Java, C++, C, Shell
+
+**Infrastructure:** Kubernetes, Terraform, Linux, Slurm, Docker, CI/CD
+
+**Accelerated computing:** CUDA, NCCL, NVLink, InfiniBand, Mellanox
+
+**Operations:** Grafana, automated remediation, distributed validation, incident response
+
+## Background
+
+I hold master's degrees in Computer Science and Geophysics from Texas Tech University. That combination shapes how I approach engineering: with an interest in both the underlying systems and the real-world problems they serve.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/johnakoto/)
+- [Portfolio](https://johnsenaakoto.netlify.app/)
